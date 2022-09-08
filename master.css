@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(rgb(0, 204, 255), rgb(0, 255, 255));
+    margin: 0px;
+}
+
+.center {
+    position: absolute;
+    margin: 0px;
+    top: 50%;
+    left: 50%;
+}
+
+.rightnotes {
+    text-align: right;
+    color: white;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.title {
+    font-size: 40px;
+}
+
+
+.Bottomnotes {
+    text-align: center;
+    color: white;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.notes {
+    border-radius: 20px;
+    color: white;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(27, 177, 200);
+    font-size: 15px;
+}
+
+.leftnotes {
+    position: absolute;
+    text-align: left;
+   
+    color: white;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#clear {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(27, 177, 200);
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
